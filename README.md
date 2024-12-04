@@ -1,4 +1,4 @@
-# Introduction To Microcontrollers Labs
+# Introduction to Microcontrollers Labs
 
 ## Lab Guides
 ### 
