@@ -2,6 +2,9 @@
 
 ## Lab Guides
 ### Here are all the [*lab guides*](https://github.com/fctanglao/IntroductionToMicrocontrollersLabs/tree/main/Lab%20Guides) provided by Dr. Anas Salah Eddin written by Dr. Mohamed Rafiquzzaman
+### Lab 9 [*instruction video*](https://youtu.be/UvBvXDH-kZg?si=D0C21TCM7wyiOTvO)
+### Lab 10 [*instruction video*](https://youtu.be/1cIbyBzErN8?si=pZUgwHccoxJtQLig)
+### Lab 12 [*instruction video*](https://youtu.be/htTvNX9Kj-I?si=gEQTxNuNjrhc8edK)
 
 ## Labs
 ### Lab [*1*](https://github.com/fctanglao/IntroductionToMicrocontrollersLabs/tree/main/Lab%201): 24-bit Addition
